@@ -1,4 +1,4 @@
-# Strawberyy Smoothie :)
+# Strawberry Smoothie :)
  
 I enjoy drinking nutritious smoothies from time to time. My favorite being Strawberry flavored.
 
@@ -7,7 +7,7 @@ I enjoy drinking nutritious smoothies from time to time. My favorite being Straw
 - **Prep:** 5 Minutes
 - **Ready In:** 6 Minutes
 
-# Ingredients :)
+# Ingredients
 
 - 8 Strawberries, hulled
 - 1/2 Cup of skim milk
@@ -16,9 +16,11 @@ I enjoy drinking nutritious smoothies from time to time. My favorite being Straw
 - 2 Teaspoons of vanilla extract
 - 1/2 Cup plain yogurt
 
-# Super Difficult Directions :)
+# Super Difficult Directions
 
 1. In a blender combine strawberries, milk, yogurt, sugar and vanilla. Toss in the ice. Blend until smooth and creamy. Pour into glasses and serve.
 
 2. Enjoy phenomenal tasting smoothie.
 
+# Notes
+Feel free to use absolutely anything you want to hold your new refreshing beverage! This could even be your hands! 
